@@ -1,0 +1,81 @@
+PATIENT_ID,SEX,AGE,PRIMARY_TISSUE,LOCALIZED_VS_METS_AT_DX,DFS_MONTHS,OS_MONTHS,EFS_STATUS,DFS_STATUS,VITAL_STATUS,OS_STATUS,StatusCat,DFStatusCat,EFStatusCat,LVMStatusCat,TissueStatusCat,SexStatusCat,AgeCat
+IC009,Male,11.5,Osseous lesion with or without soft tissue component,Metastatic,17.6,17.6,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,1,1
+IC015,Female,4.1,Osseous lesion with or without soft tissue component,Localized,40.5,163.1,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,2,1,2,2
+IC024,Male,11.7,Osseous lesion with or without soft tissue component,Localized,195.7,195.7,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC034,Male,13.4,Osseous lesion with or without soft tissue component,Localized,11.7,15.8,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,1,1
+IC044,Female,15.3,Osseous lesion with or without soft tissue component,Localized,10.8,16.1,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,1
+IC049,Female,12,Osseous lesion with or without soft tissue component,Localized,101.8,120.7,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,2
+IC053,Female,16.1,Osseous lesion with or without soft tissue component,Metastatic,59.8,59.8,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,2,2
+IC054,Male,15.7,Osseous lesion with or without soft tissue component,Metastatic,14.6,17.1,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC057,Female,14.9,Osseous lesion with or without soft tissue component,Localized,40.2,40.2,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,2,1,2,2
+IC058,Female,4.2,Osseous lesion with or without soft tissue component,Localized,38.9,199.1,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,2,1,2,2
+IC066,Female,15.1,Extra-osseous lesion,Localized,17.8,55,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,2,2,1
+IC067,Male,5.8,Osseous lesion with or without soft tissue component,Localized,14.7,37.7,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,2,1,1,1
+IC076,Male,11,Osseous lesion with or without soft tissue component,Localized,133.9,133.9,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC080,Male,20.6,Extra-osseous lesion,Metastatic,123.3,123.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,2,1,2
+IC082,Female,4.6,Osseous lesion with or without soft tissue component,Localized,123.3,123.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC086,Female,13.3,Osseous lesion with or without soft tissue component,Localized,4.6,9.3,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,1
+IC092,Male,15.1,Extra-osseous lesion,Metastatic,11.6,14.1,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,1,2,1,1
+IC093,Female,15.6,Osseous lesion with or without soft tissue component,Metastatic,11.9,16.4,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,1,1,2,1
+IC096,Male,15,Extra-osseous lesion,Localized,30,43.4,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,2,1,2
+IC105,Male,20.1,Osseous lesion with or without soft tissue component,Metastatic,9.9,11.7,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,1,1,1,1
+IC106,Male,15.6,Osseous lesion with or without soft tissue component,Metastatic,11,13.3,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC111,Female,15.4,Osseous lesion with or without soft tissue component,Localized,115.4,115.4,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC112,Male,35.3,Extra-osseous lesion,Metastatic,10.1,12.1,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,2,1,1
+IC114,Male,2.9,Osseous lesion with or without soft tissue component,Localized,11.6,11.6,No Relapse,0:DiseaseFree,DOC,1:DECEASED,1,0,0,2,1,1,1
+IC116,Female,13.8,Osseous lesion with or without soft tissue component,Metastatic,105.3,105.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,2,2
+IC121,Male,21.9,Osseous lesion with or without soft tissue component,Metastatic,10.6,13.1,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC128,Male,20.3,Osseous lesion with or without soft tissue component,Localized,22,95.8,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,1,2
+IC130,Male,12.7,Osseous lesion with or without soft tissue component,Localized,97.8,97.8,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC147,Female,11.8,Osseous lesion with or without soft tissue component,Metastatic,40.7,87.6,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,1,1,2,2
+IC149,Female,8.3,Osseous lesion with or without soft tissue component,Localized,86.7,86.7,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC151,Male,14.8,Osseous lesion with or without soft tissue component,Localized,101.3,101.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC158,Female,10.1,Osseous lesion with or without soft tissue component,Localized,25.1,51.1,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,2
+IC165,Female,13.8,Osseous lesion with or without soft tissue component,Localized,78.3,78.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC168,Male,11.8,Osseous lesion with or without soft tissue component,Localized,121.4,121.4,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC174,Female,21.3,Osseous lesion with or without soft tissue component,Localized,125.1,125.1,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC193,Female,13.1,Osseous lesion with or without soft tissue component,Metastatic,77.5,77.5,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,2,2
+IC196,Male,16.9,Osseous lesion with or without soft tissue component,Metastatic,91.8,91.8,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,1,2
+IC197,Male,12.5,Osseous lesion with or without soft tissue component,Metastatic,9,9,No Relapse,0:DiseaseFree,DOC,1:DECEASED,1,0,0,1,1,1,1
+IC198,Male,9.5,Osseous lesion with or without soft tissue component,Metastatic,10.8,14.4,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC224,Male,8.6,Osseous lesion with or without soft tissue component,Localized,107.4,107.4,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC242,Female,6.7,Osseous lesion with or without soft tissue component,Localized,15.3,17.9,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,1
+IC248,Female,25,Osseous lesion with or without soft tissue component,Localized,97.9,97.9,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC254,Male,11.4,Extra-osseous lesion,Localized,29.9,37.5,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,2,2,1,2
+IC264,Male,12.3,Osseous lesion with or without soft tissue component,Metastatic,13.1,18.2,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC267,Male,24,Osseous lesion with or without soft tissue component,Metastatic,11.2,12.3,Metastatic Relapse,1:Recurred/Progressed,,1:DECEASED,1,1,1,1,1,1,1
+IC268,Male,11.6,Osseous lesion with or without soft tissue component,Localized,126.8,126.8,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC270,Male,23.6,Extra-osseous lesion,Localized,76.9,76.9,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,2,1,2
+IC272,Male,17.4,Osseous lesion with or without soft tissue component,Metastatic,17.2,32.3,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC273,Male,23.6,Osseous lesion with or without soft tissue component,,43.5,121,Localized Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,2,2,1,1,2
+IC274,Male,11,Osseous lesion with or without soft tissue component,Metastatic,43.1,43.7,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,1,1,1,2
+IC275,Male,14.9,Osseous lesion with or without soft tissue component,Localized,97.1,97.1,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC277,Male,39,Osseous lesion with or without soft tissue component,,63.7,64.1,Metastatic Relapse,1:Recurred/Progressed,,1:DECEASED,1,1,1,2,1,1,2
+IC278,Male,20.7,Extra-osseous lesion,Localized,93.2,93.2,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,2,1,2
+IC279,Female,17.2,Osseous lesion with or without soft tissue component,Localized,11.1,15.3,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,1
+IC282,Female,49.9,Extra-osseous lesion,Localized,64.9,64.9,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,2,2,2
+IC283,Male,16.3,Osseous lesion with or without soft tissue component,Localized,90.3,90.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,1,2
+IC284,Male,17,Osseous lesion with or without soft tissue component,Localized,18.8,42.5,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,1,2
+IC286,Male,25.8,Extra-osseous lesion,Metastatic,72.6,72.6,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,2,1,2
+IC288,Male,17.6,Osseous lesion with or without soft tissue component,Metastatic,5.2,17.5,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,1,1
+IC294,Female,15.8,Osseous lesion with or without soft tissue component,Localized,67.7,67.7,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC295,Female,28.8,Osseous lesion with or without soft tissue component,Localized,93.4,93.4,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC296,Female,27.8,Osseous lesion with or without soft tissue component,Metastatic,94,94,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,2,2
+IC297,Male,14.2,Osseous lesion with or without soft tissue component,Metastatic,4.7,45.2,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,1,1,1,1
+IC299,Female,7.5,Osseous lesion with or without soft tissue component,Metastatic,17.7,46.9,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,2,1
+IC300,Male,19.5,Osseous lesion with or without soft tissue component,Metastatic,54.9,54.9,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,1,2
+IC301,Male,15.5,Osseous lesion with or without soft tissue component,Localized,20.5,38.9,Localized Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,2,2,1,1,2
+IC302,Female,8.1,Osseous lesion with or without soft tissue component,Localized,24.4,34.4,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,2,2
+IC303,Female,13.2,Osseous lesion with or without soft tissue component,Localized,59.6,59.6,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC305,Female,16.5,Osseous lesion with or without soft tissue component,Metastatic,18.1,27.2,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,1,1,2,2
+IC306,Male,17,Osseous lesion with or without soft tissue component,Localized,19,52.2,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,1,2
+IC309,Male,24.4,Osseous lesion with or without soft tissue component,Metastatic,6.9,32.5,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,1,1,1,1
+IC311,Male,35.6,Osseous lesion with or without soft tissue component,Metastatic,21.3,30.4,Metastatic Relapse,1:Recurred/Progressed,DCD,1:DECEASED,1,1,1,1,1,1,2
+IC323,Male,11.2,Extra-osseous lesion,Localized,59.4,59.4,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,2,1,2
+IC324,Male,17.8,Osseous lesion with or without soft tissue component,Localized,11.4,13.1,Metastatic Relapse,1:Recurred/Progressed,DOD,1:DECEASED,1,1,1,2,1,1,1
+IC325,Male,13.7,Osseous lesion with or without soft tissue component,Metastatic,7.8,11.2,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,1,1,1,1
+IC343,Female,10,Osseous lesion with or without soft tissue component,Localized,58.7,58.7,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,1,2,2
+IC349,Female,15.5,Osseous lesion with or without soft tissue component,Metastatic,15.6,15.6,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,2,1
+IC831,Female,10.3,Extra-osseous lesion,Localized,62.6,62.6,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,2,2,2,2
+IC929,Female,5.9,Osseous lesion with or without soft tissue component,Metastatic,59.3,59.3,No Relapse,0:DiseaseFree,Alive,0:LIVING,0,0,0,1,1,2,2
+IC973,Male,27.3,Osseous lesion with or without soft tissue component,Localized,8.2,8.2,Metastatic Relapse,1:Recurred/Progressed,Alive,0:LIVING,0,1,1,2,1,1,1
